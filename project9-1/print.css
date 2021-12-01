@@ -1,0 +1,16 @@
+img{
+  display: none;
+}
+body {
+  font-size: 1.25 em;
+}
+a:link:after, a:visited:after { content:" [" attr(href) "] "; }
+#nav {
+  display: none;
+}
+ #sidebar {
+  display: none;
+}
+.news {
+  display: none;
+}
